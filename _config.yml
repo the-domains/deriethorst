@@ -1,6 +1,6 @@
 name: deriethorst
 favicon: null
-layout_spectrum: 0.6154611145611852
+layout_spectrum: 0.26554
 typography_spectrum: 0.7278259450104088
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.6507040599826723
+  brandStrength: 0.625
   lightness: 0.2455268600024283
   saturation: 0.7949218982830644
-  rhythmicContrast: 0.5089552116114646
+  rhythmicContrast: 0.5
 purpose: []
