@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Dit is de website van De Riethorst, een klein idyllisch huisje op een klein idyllisch eilandje in natuurgebied de Alde Feanen, Friesland.'
-datePublished: '2016-05-04T08:20:01.697Z'
-dateModified: '2016-05-04T08:15:49.874Z'
+datePublished: '2016-05-04T09:29:20.346Z'
+dateModified: '2016-05-04T09:27:31.042Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-04-dit-is-de-website-van-de-riethorst-een-klein-idyllisch-huis.md
 published: true
 authors: []
@@ -23,4 +25,4 @@ _type: Article
 
 ---
 Dit is de website van De Riethorst, een klein idyllisch huisje op een klein idyllisch eilandje in natuurgebied de Alde Feanen, Friesland.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85d60d1f-edf8-4bcb-8ed1-9660886ed9bb.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8f8ab83319e44994102e3ef4e77dad9943c6bb3.png)
