@@ -1,4 +1,4 @@
-name: deriethorst
+name: de riethorst
 favicon: null
 layout_spectrum: 0.26554
 typography_spectrum: 0.7278259450104088
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.625
-  lightness: 0.2455268600024283
-  saturation: 0.7949218982830644
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
